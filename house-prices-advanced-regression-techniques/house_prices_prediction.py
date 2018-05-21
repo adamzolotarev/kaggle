@@ -19,11 +19,8 @@ y = dataset.SalePrice
 predictors = ['OverallQual',
               'GrLivArea',
               'GarageCars',
-              'GarageArea',
               'TotalBsmtSF',
-              '1stFlrSF',
               'FullBath',
-              'TotRmsAbvGrd',
               'YearBuilt'
               ]
 
