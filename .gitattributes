@@ -1,3 +1,4 @@
 /Users/azolotarev/code/kaggle-personal/templates/coursera_kaggle_preprocessing/test.csv.zip filter=lfs diff=lfs merge=lfs -text
 /Users/azolotarev/code/kaggle-personal/templates/coursera_kaggle_preprocessing/train.csv.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
